@@ -40,4 +40,9 @@ public class People {
                 ", age=" + age +
                 '}';
     }
+
+    public void test(){
+        System.out.println("111");
+        System.out.println("222");
+    }
 }
