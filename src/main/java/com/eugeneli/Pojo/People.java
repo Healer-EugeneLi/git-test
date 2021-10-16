@@ -43,5 +43,6 @@ public class People {
 
     public void hotFixTest(){
         System.out.println("hot-fix");
+        System.out.println("hot-fix2");
     }
 }
