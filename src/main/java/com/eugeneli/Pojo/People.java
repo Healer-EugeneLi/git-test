@@ -41,6 +41,10 @@ public class People {
                 '}';
     }
 
+    public void hotFixTest() {
+        System.out.println("hot-fix");
+        System.out.println("hot-fix2");
+    }
     public void test(){
         System.out.println("111");
         System.out.println("222");
