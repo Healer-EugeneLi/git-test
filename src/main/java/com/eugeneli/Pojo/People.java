@@ -40,4 +40,8 @@ public class People {
                 ", age=" + age +
                 '}';
     }
+
+    public void hotFixTest(){
+        System.out.println("hot-fix");
+    }
 }
